@@ -101,8 +101,6 @@ Send a `POST` request to `/blogs` endpoint with one of the following formats:
 
 ## 🖼️ Graph Visuals
 
-*Include graph images below*
-
 ### English Blog Graph
 
 ![English Graph](./assets/english_graph.png)
