@@ -141,7 +141,7 @@ Send a `POST` request to `/blogs` endpoint with one of the following formats:
 
 ## 🌟 Credits
 
-Created with ❤️ by \Nivakaran — built for multi-lingual blog automation.
+Created with ❤️ by Nivakaran S. — built for multi-lingual blog automation.
 
 ---
 
