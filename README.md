@@ -8,7 +8,6 @@ This is an Agentic AI-powered blog generation system built using the **uv** fram
 * ⚡ FastAPI backend to handle blog requests.
 * 🔧 Built using **LangGraph** and **LangChain**.
 * 📝 Supports two separate Agentic Graphs:
-
   * One for English blogs.
   * One for Tamil and Sinhala blogs.
 * 📦 Easily configurable via `.env` file.
@@ -21,8 +20,8 @@ This is an Agentic AI-powered blog generation system built using the **uv** fram
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/agentic-blog-generator.git
-cd agentic-blog-generator
+git clone https://github.com/Nivakaran-S/Blog-Generation-With-AI-Agent.git
+cd Blog-Generation-With-AI-Agent
 ```
 
 ### 🔍 Step 2: Install Dependencies
@@ -137,20 +136,9 @@ Send a `POST` request to `/blogs` endpoint with one of the following formats:
 
 ---
 
-## 🌟 Credits
-
-Created with ❤️ by Nivakaran S. — built for multi-lingual blog automation.
-
----
-
 ## ✊ Contribute
 
 Feel free to fork, star, and contribute!
 
 ---
 
-## ⚠️ License
-
-This project is licensed under the MIT License.
-
----
